@@ -7,3 +7,5 @@ Now testing webhooktriggering
 After adding github-webhook
 --Congratulations on completing Ansible in docker hub--
 what the hell
+--Finally CI/CD using Kubernetes Cluster is Done--
+Through pollscm image is created using ansible and deployed into containers using Kubernetes
