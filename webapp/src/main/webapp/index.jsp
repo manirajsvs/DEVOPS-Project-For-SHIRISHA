@@ -9,5 +9,5 @@ After adding github-webhook
 --Finally CI/CD using Kubernetes Cluster is Done--
 Through pollscm image is created using ansible and deployed into containers using Kubernetes
 <h1> Bie Thank for PRACTISE Hope we did it !! </h1>
-New Pods create with rollout update
+New Pods create with rollout updating
 
