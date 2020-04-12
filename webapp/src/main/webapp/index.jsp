@@ -11,5 +11,5 @@ what the hell
 Through pollscm image is created using ansible and deployed into containers using Kubernetes
 <h2> One last test for CI/CD pipeline </h2>
 with latest changes in the files
-
+<h1> Bie Thank for PRACTISE Hope we did it !! </h1>
 New Pods create with rollout update 
